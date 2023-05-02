@@ -1,0 +1,14 @@
+{
+    "short_name": "shortname",
+    "name": "examplename",
+    "icons": [],
+    "id": "/",
+    "start_url": "/",
+    "background_color": "#212121",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#f28c18",
+    "shortcuts": [
+
+    ]
+}
